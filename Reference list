@@ -1,0 +1,24 @@
+Reference List
+
+CMCS_Prototype (2025) Academic Manager: Pending Claims Verification Screen with Rejection Prompt. [Screenshot]. 23 October 2025.
+
+CMCS_Prototype (2025) Claim Details Screen Showing 'Manager Rejected' Status. [Screenshot]. 23 October 2025.
+
+CMCS_Prototype (2025) ManagerController.cs: Reject Action Logic. [Source Code Snippet]. October 2025.
+
+CMCS_Prototype (2025) Views/Manager/PendingClaims.cshtml: JavaScript for Reject Action. [Source Code Snippet]. October 2025.
+
+CMCS_Prototype (2025) Views/Shared/ClaimDetails.cshtml: HTML Structure. [Source Code Snippet]. October 2025.
+
+Technical Documentation and Version Control Records
+CMCS_Prototype (2025) Assignment Rubric: Version Control and System Requirements. [Document Snippet]. October 2025.
+
+CMCS_Prototype (2025) Git Error Log: Push Rejection ('fetch first'). [Screenshot]. 23 October 2025.
+
+CMCS_Prototype (2025) Git Error Log: 'origin' does not appear to be a git repository. [Screenshot]. 23 October 2025.
+
+CMCS_Prototype (2025) Git Status: Changes not staged for commit. [Screenshot]. 23 October 2025.
+
+CMCS_Prototype (2025) Git Success: Forced Update Push Confirmation. [Screenshot]. 23 October 2025.
+
+CMCS_Prototype (2025) Unit Testing Helper: MockDbSetExtensions.cs Warning CS1998. [Screenshot]. October 2025.
